@@ -7,10 +7,10 @@
 - ⚡ Fun fact **I'M NOT A TILER**~
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true" target="_blank">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true" >
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/alkaid20860233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alkaid20860233" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15138140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15138140" height="30" width="40" /></a>
