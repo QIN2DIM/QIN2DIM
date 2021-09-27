@@ -10,7 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true" >
 
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
@@ -18,7 +18,7 @@
 
 </p>
 
-<h4 align="left">Frameworks and Tools</h4>
+<h3 align="left">Frameworks and Tools</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a>
