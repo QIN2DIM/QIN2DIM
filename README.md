@@ -2,7 +2,7 @@
 <h3 align="center">A creator from China </h3>
 
 - 🔭 I'm an undergraduate student in **Hainan University**.
-- 🌱 I'm currently learning **Data Mining** and **DIKW**.
+- 🌱 I'm currently learning **Data Mining** and **Cloud Native**.
 - 📫 How to reach me [yx.qinse@ieee.org](mailto:yx.qinse@ieee.org) or [qinse.top@foxmail.com](mailto:qinse.top@foxmail.com).
 - ⚡ Fun fact **I'M NOT A TILER**~
 
