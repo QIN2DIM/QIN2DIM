@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I'M NOT A TILER**~
 
 
-<img align="right" src="https://github-readme-stats-one-rosy.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true&count_private=true" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true&count_private=true" >
 
 <h4 align="left">Languages</h4>
 <p align="left">
