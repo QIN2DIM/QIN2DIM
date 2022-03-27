@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm QIN2DIM</h1>
-<h3 align="center">A creator from China </h3>
 
+### A creator from China 
 - 🔭 I'm an undergraduate student in **Hainan University**.
 - 🌱 I'm currently learning **Data Mining** and **Cloud Native**.
 - 📫 How to reach me [yx.qinse@ieee.org](mailto:yx.qinse@ieee.org) or [qinse.top@foxmail.com](mailto:qinse.top@foxmail.com).
@@ -12,4 +12,5 @@
 
 ### Statistics
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true&count_private=true)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
