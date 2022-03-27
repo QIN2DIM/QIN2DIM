@@ -10,6 +10,6 @@
 
 ![](https://skillicons.dev/icons?i=py,go,ts,kubernetes,docker,ps,pr,unreal,redis,mysql,bash,vscode,azure,cloudflare,&theme=light)
 
-### Statistic
+### Statistics
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=QIN2DIM&theme=default&show_icons=true&count_private=true)
