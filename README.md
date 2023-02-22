@@ -8,7 +8,7 @@
 
 ### Languages and Tools
 
-![](https://skillicons.dev/icons?i=py,rust,go,ts,docker,unity,ps,pr,mongodb,redis,rocket,postman,cloudflare&theme=light)
+![](https://skillicons.dev/icons?i=py,rust,go,ts,docker,unity,ps,pr,mongodb,redis,tauri,actix,cloudflare,postman&theme=light)
 
 ### Statistics
 
