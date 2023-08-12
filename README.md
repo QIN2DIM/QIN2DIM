@@ -6,17 +6,8 @@
 - 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com).
 - ⚡ Fun fact **I'M NOT A TILER**~
 
-### Statistics
-
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
-
-### Roadmap
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d18806958c39fd1f7e753b?variant=dark&roadmaps=full-stack%2Cdevops)](https://roadmap.sh)
-
 ### Languages and Tools
-<!-- lang-->
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff) <!-- lang-->
 ![Rust](https://img.shields.io/badge/-Rust-e43717?style=flat-square&logo=rust&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/-Golang-00b4e0?style=flat-square&logo=go&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff) 
@@ -47,3 +38,11 @@
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-2585cc?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-5a5ab1?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![JianYing](https://img.shields.io/badge/-JianYing_PC-000000?style=flat-square&logo=tiktok&logoColor=ffffff)
+
+### Statistics
+
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
+### Roadmap
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d18806958c39fd1f7e753b?variant=dark&roadmaps=full-stack%2Cdevops)](https://roadmap.sh)
