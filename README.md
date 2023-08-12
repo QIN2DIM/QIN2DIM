@@ -6,6 +6,14 @@
 - 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com).
 - ⚡ Fun fact **I'M NOT A TILER**~
 
+### Statistics
+
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+
+### Roadmap
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d18806958c39fd1f7e753b?variant=dark&roadmaps=full-stack%2Cdevops)](https://roadmap.sh)
+
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -28,10 +36,10 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![SQLite3](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
@@ -43,11 +51,3 @@
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-2585cc?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-5a5ab1?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![JianYing](https://img.shields.io/badge/-JianYing_PC-000000?style=flat-square&logo=tiktok&logoColor=ffffff)
-
-### Statistics
-
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
-
-### Roadmap
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d18806958c39fd1f7e753b?variant=dark&roadmaps=full-stack%2Cdevops)](https://roadmap.sh)
