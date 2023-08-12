@@ -35,7 +35,7 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=ffffff)
 ![Selenium](https://img.shields.io/badge/-Selenium-454545?style=flat-square&logo=selenium&logoColor=ffffff)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=ffffff) <!-- Others-->
-![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-2585cc?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
+![Adobe Lightroom Classic](https://img.shields.io/badge/-Lightroom_Classic-2585cc?style=flat-square&logo=adobe-lightroom-classic&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-5a5ab1?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![JianYing](https://img.shields.io/badge/-JianYing_PC-000000?style=flat-square&logo=tiktok&logoColor=ffffff)
 
