@@ -19,7 +19,6 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
 ![Workflow](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-fb6d27?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=ffffff)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)
