@@ -18,6 +18,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-222e3c?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
+![Travis CI](https://img.shields.io/badge/-Travis_CI-%23c53147?style=flat-square&logo=travisci&logoColor=ffffff)
 ![Workflow](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-fb6d27?style=flat-square&logo=gitlab&logoColor=ffffff)
 ![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=ffffff)
