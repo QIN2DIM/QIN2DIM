@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm QIN2DIM</h1>
 
 ### A creator from China 
-- 🔭 I'm an undergraduate student in **Hainan University**.
 - 🌱 I'm currently learning **Data Mining** and **AIGC**.
 - 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com).
 - ⚡ Fun fact **I'M NOT A TILER**~
@@ -42,6 +41,13 @@
 ![Adobe Lightroom Classic](https://img.shields.io/badge/-Lightroom_Classic-2585cc?style=flat-square&logo=adobe-lightroom-classic&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-5a5ab1?style=flat-square&logo=adobe-lightroom&logoColor=ffffff)
 ![JianYing](https://img.shields.io/badge/-JianYing_PC-000000?style=flat-square&logo=tiktok&logoColor=ffffff)
+
+### Social
+
+<a href = "https://discord.gg/KA66wZBQ"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+<a href = "https://t.me/+ZBxogSG6XIQxNTQx"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Studio&message=chat" ></a>
+<a href = "https://twitter.com/Tk206_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Tk206_?link=https%3A%2F%2Ftwitter.com%2FTk206_"></a>
+<a href = "https://github.com/QIN2DIM"><img alt="GitHub followers" src="https://img.shields.io/github/followers/QIN2DIM?style=social&logo=github"></a>
 
 ### Statistics
 
