@@ -5,6 +5,10 @@
 - 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com).
 - ⚡ Fun fact **I'M NOT A TILER**~
 
+### Statistics
+
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=default" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=default" />
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff) <!-- lang-->
 ![Rust](https://img.shields.io/badge/-Rust-e43717?style=flat-square&logo=rust&logoColor=ffffff)
@@ -48,11 +52,3 @@
 <a href = "https://t.me/+ZBxogSG6XIQxNTQx"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Studio&message=chat" ></a>
 <a href = "https://twitter.com/Tk206_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Tk206_?link=https%3A%2F%2Ftwitter.com%2FTk206_"></a>
 <a href = "https://github.com/QIN2DIM"><img alt="GitHub followers" src="https://img.shields.io/github/followers/QIN2DIM?style=social&logo=github"></a>
-
-### Statistics
-
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
-
-### Roadmap
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d18806958c39fd1f7e753b?variant=dark&roadmaps=full-stack%2Cdevops)](https://roadmap.sh)
