@@ -48,7 +48,7 @@
 
 ### Social
 
-<a href = "https://discord.gg/KA66wZBQ"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+<a href = "https://discord.gg/m9ZRBTZvbr"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
 <a href = "https://t.me/+ZBxogSG6XIQxNTQx"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Studio&message=chat" ></a>
 <a href = "https://twitter.com/Tk206_"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Tk206_?link=https%3A%2F%2Ftwitter.com%2FTk206_"></a>
 <a href = "https://github.com/QIN2DIM"><img alt="GitHub followers" src="https://img.shields.io/github/followers/QIN2DIM?style=social&logo=github"></a>
