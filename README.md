@@ -1,9 +1,10 @@
 <h1 align="center">Hi there👋, I'm QIN2DIM</h1>
 
 ### A creator from China 
-- 🌱 I'm currently learning **Data Mining** and **AIGC**.
-- 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com).
+- 🌱 I'm currently learning Data Mining and AIGC
+- 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com)
 - ⚡ Fun fact **I'M NOT A TILER**~
+- 🦉 INTP; Opensource; Arch Linux user
 
 ### Statistics
 
