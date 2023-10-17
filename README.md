@@ -3,7 +3,6 @@
 ### A creator from China 
 - 🌱 I'm currently learning Data Mining and AIGC
 - 📫 How to reach me at [yaoqinse@gmail.com](mailto:yaoqinse@gmail.com)
-- ⚡ Fun fact **I'M NOT A TILER**~
 - 🦉 INTP; Opensource; Arch Linux user
 
 ### Statistics
