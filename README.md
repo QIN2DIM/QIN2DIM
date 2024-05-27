@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffffff)
+![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat-square&logo=minio&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-222e3c?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
