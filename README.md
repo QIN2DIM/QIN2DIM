@@ -3,6 +3,7 @@
 ### A creator from China 
 - 🌱 I'm currently learning Data Mining and AIGC
 - 🐲 INTP; Opensource; Arch Linux user
+- 🧬 LLM; Agentic chatflow; Quant dev
 
 ### Statistics
 
